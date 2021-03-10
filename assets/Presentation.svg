@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="511" height="147.901" viewBox="0 0 511 147.901">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#795a1e"/>
+      <stop offset="1" stop-color="#624715"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b4955c"/>
+      <stop offset="1" stop-color="#8d6838"/>
+    </linearGradient>
+  </defs>
+  <g id="Presentation" transform="translate(-714.651 -413.817)">
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="435" height="106" rx="53" transform="translate(766.651 442.718)" fill="#896f3f"/>
+    <rect id="Rectangle_7" data-name="Rectangle 7" width="511" height="82" rx="41" transform="translate(714.651 426.718)" fill="url(#linear-gradient)"/>
+    <path id="Path_1" data-name="Path 1" d="M771.888,568s15.763-19.833,31.711-19.833S818.481,568,835.68,568s18.336-19.833,36.713-19.833,16,21.255,36.8,19.833,26.309-19.833,46.371-19.833,16.332,18.41,33.876,19.833,19.119-19.833,36.334-19.833S1041.353,569.423,1058.3,568s18.326-19.833,34.751-19.833S1107.379,568,1124,568s23.7-19.833,43.819-19.833S1204.459,568,1204.459,568" transform="translate(-33.022 -125.35)" fill="none" stroke="#cb2626" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <path id="Path_2" data-name="Path 2" d="M1204.459,568s-15.763-19.833-31.71-19.833S1157.866,568,1140.667,568s-18.336-19.833-36.713-19.833-16,21.255-36.8,19.833-26.309-19.833-46.371-19.833S1004.453,566.577,986.91,568s-19.119-19.833-36.334-19.833S934.994,569.423,918.049,568s-18.326-19.833-34.751-19.833S868.968,568,852.347,568s-23.7-19.833-43.819-19.833S771.888,568,771.888,568" transform="translate(-5.022 -129.35)" fill="none" stroke="#cb9226" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="435" height="106" rx="53" transform="translate(752.651 455.718)" fill="url(#linear-gradient-2)"/>
+    <rect id="Rectangle_8" data-name="Rectangle 8" width="17" height="14" rx="3" transform="translate(764.976 441.059) rotate(-17)" fill="#d2d3e2"/>
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="13" height="11" rx="3" transform="translate(829.068 417.666) rotate(38)" fill="#d2d3e2"/>
+    <rect id="Rectangle_10" data-name="Rectangle 10" width="17" height="14" rx="3" transform="translate(888.763 428.768) rotate(38)" fill="#d2d3e2"/>
+    <rect id="Rectangle_11" data-name="Rectangle 11" width="13.635" height="11.229" rx="3" transform="translate(924.927 425.81) rotate(14)" fill="#d2d3e2"/>
+    <rect id="Rectangle_12" data-name="Rectangle 12" width="13.635" height="11.738" rx="3" transform="translate(978.585 424.443) rotate(-21)" fill="#d2d3e2"/>
+    <rect id="Rectangle_13" data-name="Rectangle 13" width="19.956" height="12.936" rx="3" transform="translate(1028.585 437.793) rotate(-21)" fill="#d2d3e2"/>
+    <rect id="Rectangle_14" data-name="Rectangle 14" width="19.956" height="12.936" rx="3" transform="matrix(0.839, 0.545, -0.545, 0.839, 1099.471, 416.421)" fill="#d2d3e2"/>
+    <rect id="Rectangle_15" data-name="Rectangle 15" width="12.441" height="11.857" rx="3" transform="matrix(0.839, 0.545, -0.545, 0.839, 1170.915, 428.548)" fill="#d2d3e2"/>
+  </g>
+</svg>
