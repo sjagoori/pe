@@ -15,3 +15,8 @@ It starts with (semantically correct) HTML that functions properly on any browse
 The second layer, the usable layer, focusses on the usability of a page. With proper styling, the page becomes more accessible to users with, for example, visual impairments. It is, however, not limited to just styling. Modern CSS techniques allows for optional, accessibility specific features.
 
 The third and last layer is the pleasurable layer, this layer focusses on the pleasurable part of the website such as animations. This layer consists of additions to the functional features from the first layer.
+
+
+## Prograssive enhancement metaphor
+**Metaphor explenation link**
+[Hotdog](https://github.com/facebook/react/wiki/Sites-Using-React)
