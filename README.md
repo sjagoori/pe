@@ -18,5 +18,5 @@ The third and last layer is the pleasurable layer, this layer focusses on the pl
 
 
 ## Prograssive enhancement metaphor
-**Metaphor explenation link: **
+**Metaphor explenation link:**
 [Hotdog](https://github.com/sjagoori/pe/wiki/PE-metafoor---hotdogt)
