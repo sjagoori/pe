@@ -35,6 +35,10 @@ input[id="behavioralRadio"]:checked~section#behavioral {
   display: flex;
 }
 
+input[id="sourcesRadio"]:checked~section#sources {
+  display: flex;
+}
+
 main {
   position: absolute;
   left: 50%;
